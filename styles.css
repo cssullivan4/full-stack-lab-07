@@ -1,0 +1,13 @@
+.dice {
+    width: 3em;
+    height: 3em;
+    font-size: 5em;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border: 2px solid black;
+    line-height: 3em;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 20%;
+}
